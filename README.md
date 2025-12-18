@@ -2,7 +2,7 @@
 
 ### 👋 Abstract 'ME'
 
-Female. Software Developer.Amateur designer.
+Female. Software Developer. Amateur designer.
 I am interested in many subjects and technologies. However, since I am an extremely low-energy person and always get drawn in by new things, I am always "in the process of learning".
 
 <p>
